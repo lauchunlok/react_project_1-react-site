@@ -2,7 +2,7 @@
 
 Mostly CSS
 
-- CSS To note:
+#### CSS To note:
 
 1. Wrapping text
 2. padding-block
@@ -10,3 +10,9 @@ Mostly CSS
 4. margin: auto
 5. background-image
 6. url()
+
+
+
+#### JS
+
+>- process.env.PUBLIC_URL
