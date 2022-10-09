@@ -1,3 +1,5 @@
+Design file: https://www.figma.com/file/PgvQLtyTdUf8e9K9khjzZJ/ReactFacts-Light%2FDark-Modes?node-id=2%3A3
+
 ### Learnt:
 
 Mostly CSS
@@ -11,6 +13,8 @@ Mostly CSS
 4. margin: auto
 5. background-image
 6. url()
+7. toggler
+   - css selector: https://www.w3schools.com/cssref/css_selectors.asp
 
 #### JS
 
